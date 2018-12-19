@@ -1,0 +1,97 @@
+@font-face {
+	font-family: ductrinh;
+	src:;
+}
+.a-1{
+	background: #0085a0;
+	/* padding: px 0; */
+	margin-bottom: 20px
+}
+.logo-1{
+
+	text-align: center;
+	margin: auto;
+}
+.menu{
+	margin: 20px auto
+}
+ .menu-main{
+	background: transparent;
+	border: none;
+	border-radius: 0;
+	margin: 0;
+	
+}
+.menu-main .menu-main1{
+	margin: 0 80px;
+}
+.menu .menu-main .menu-main1 ul li a {
+	font-family: 'UTM Avo';
+	font-size: 12px;
+	text-transform: uppercase;
+	margin: 0 25px;
+	
+}
+.a-2{
+	padding: 0; 
+}
+.a-2 p{
+	font-family: 'UTM Avo';
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin: 0 auto;
+	background: #0085a0;
+	padding: 15px;
+	color: #fff;
+		
+	
+}
+.tieude{
+	text-align: center;
+	text-transform: uppercase;
+	
+}
+.menu-tieute .menu-main2{
+	margin: 10px 330px;
+	padding: 0;
+}
+.menu-tieute .menu-main2 ul li a{\
+	font-family: 'UTM Avo';
+	font-size: 16px;
+	/* text-transform: uppercase; */
+	margin: 10px 40px;
+	padding: 0px;
+	padding-bottom: 5px;
+	border-bottom: 2px solid  #565656;
+	
+	
+}
+.banner{
+	margin-top: 15px; 
+}
+.a-3 h2 {
+	text-transform: uppercase;
+	text-align: center;
+}
+.a-3 .a-4 {
+	border: none;
+	border-radius: 0;
+}
+.a-3 .a-4 .a-5 h4{
+	color: #0085a0;
+	font-size: 14px
+}
+.a-3 .a-4 .a-5 p{
+	font-weight: bold;
+	
+}
+.a-3 .a-4 .a-5 p a {
+	border: 1px solid red;
+	text-transform: uppercase;
+	border-radius: 0;
+	color: #000;
+	background: #ffffff;
+	
+	
+}
